@@ -2,7 +2,7 @@
 
 ## charter
 
-to explore and experiment with [Linked Data]() vocabularies for the [Open App Ecosystem](https://github.com/open-app/core).
+to design [Linked Data]() vocabularies for the [Open App Ecosystem](https://github.com/open-app/core).
 
 ## requirements
 
