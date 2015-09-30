@@ -10,10 +10,6 @@ to design [Linked Data]() vocabularies for the [Open App Ecosystem](https://gith
 - domain vocabs must be from the smallest set of entities that can describe the domain
 - upper vocabs must be the overlap amongst domain vocabs
 
-## domain use cases
+## vocabs
 
-## vocabs (in progress)
-
-- resources
-- agents
-- events
+- [`vf` Value Flows](https://github.com/valueflows/valueflows)
